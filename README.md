@@ -1,4 +1,4 @@
-### Hi, I'm FerventOrange
+###
 
 I build local, agent-driven AI tools for video and media, plus whatever else makes my own life easier.
 
