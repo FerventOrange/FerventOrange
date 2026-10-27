@@ -1,5 +1,3 @@
-###
-
 I build local, agent-driven AI tools for video and media, plus whatever else makes my own life easier.
 
 **Currently working on:** [Cutpoint](https://github.com/FerventOrange/cutpoint)
